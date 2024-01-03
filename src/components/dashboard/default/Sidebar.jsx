@@ -39,7 +39,7 @@ const Sidebar = ({ openSidebar, setSidebar }) => {
             src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F895625%2Fscreenshots%2F2248555%2Fvault_logo-01.jpg&f=1&nofb=1&ipt=1d30521433a4a0a0ddabfbd0e1351920ba4f435da0ae478f775778d3bc00dc07&ipo=images"
             alt=""
           />
-          <h2 className="text-2xl font-bold text-white ms-4">ScripVault</h2>
+          <h2 className="text-2xl font-bold text-white ms-4">StockMatrix</h2>
         </Link>
 
         <div className="flex flex-col justify-between flex-1 mt-6">

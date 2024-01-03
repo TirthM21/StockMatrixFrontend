@@ -10,7 +10,7 @@ export const Hero = () => {
         <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             <h1 id="appname" className="title-font md:text-5xl sm:text-4xl leading-normal font-extrabold text-3xl mb-4 text-gray-900">
-              ScripVault
+              StockMatrix
             </h1>
             <span id="apptitle" className="text-3xl font-bold mb-3 text-gray-700">
               The Best Investment Advisor
